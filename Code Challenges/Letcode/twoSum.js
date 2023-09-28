@@ -5,5 +5,5 @@
  */
 
 const twoSum = (nums, target) => {
-    //Add code
+    //TODO: Add code
 };
